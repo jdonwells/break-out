@@ -1,0 +1,47 @@
+{
+    "image1": {
+        "data": "hwQQAAgAAAAzMzMzMzMzMyMiMjMjIiIzIyIiMyMiIjMjIiIzIyIiMyMiIjMjIiIzIyIiMyMiIjMjIiIzIyIiMyMiIjMiIiIy",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "redBrick"
+    },
+    "image3": {
+        "data": "hwSgAAUAAAD//w8A//8PAP//DwD//w8A//8PAP//DwD//w8A//8PAP//DwD//w8A//8PAP//DwD//w8A//8PAP//DwD//w8A//8PAP//DwD//w8A//8PAP//DwD//w8A//8PAP//DwD//w8A//8PAP//DwD//w8A//8PAP//DwD//w8A//8PAP//DwD//w8A//8PAP//DwD//w8A//8PAP//DwD//w8A//8PAP//DwD//w8A//8PAP//DwD//w8A//8PAP//DwD//w8A//8PAP//DwD//w8A//8PAP//DwD//w8A//8PAP//DwD//w8A//8PAP//DwD//w8A//8PAP//DwD//w8A//8PAP//DwD//w8A//8PAP//DwD//w8A//8PAP//DwD//w8A//8PAP//DwD//w8A//8PAP//DwD//w8A//8PAP//DwD//w8A//8PAP//DwD//w8A//8PAP//DwD//w8A//8PAP//DwD//w8A//8PAP//DwD//w8A//8PAP//DwD//w8A//8PAP//DwD//w8A//8PAP//DwD//w8A//8PAP//DwD//w8A//8PAP//DwD//w8A//8PAP//DwD//w8A//8PAP//DwD//w8A//8PAP//DwD//w8A//8PAP//DwD//w8A//8PAP//DwD//w8A//8PAP//DwD//w8A//8PAP//DwD//w8A//8PAP//DwD//w8A//8PAP//DwD//w8A//8PAP//DwD//w8A//8PAP//DwD//w8A//8PAP//DwD//w8A//8PAP//DwD//w8A//8PAP//DwD//w8A//8PAP//DwD//w8A//8PAP//DwD//w8A//8PAP//DwD//w8A",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "outOfBounds"
+    },
+    "image4": {
+        "data": "hwQQAAgAAABVVVVVVVVVVUVEVFVFRERVRUREVUVERFVFRERVRUREVUVERFVFRERVRUREVUVERFVFRERVRUREVUVERFVERERU",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "greenBrick"
+    },
+    "image5": {
+        "data": "hwQQAAgAAAB3d3d3d3d3d2dmdndnZmZ3Z2Zmd2dmZndnZmZ3Z2Zmd2dmZndnZmZ3Z2Zmd2dmZndnZmZ3Z2Zmd2dmZndmZmZ2",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "yellowBrick"
+    },
+    "image7": {
+        "data": "hwQQAAgAAAC7u7u7u7u7u6uqururqqq7q6qqu6uqqrurqqq7q6qqu6uqqrurqqq7q6qqu6uqqrurqqq7q6qqu6uqqruqqqq6",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "purpleBrick"
+    },
+    "image6": {
+        "data": "hwQQAAgAAACZmZmZmZmZmYmImJmJiIiZiYiImYmIiJmJiIiZiYiImYmIiJmJiIiZiYiImYmIiJmJiIiZiYiImYmIiJmIiIiY",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "blueBrick"
+    },
+    "m3TgV/j1c-rgB4%T/vy3": {
+        "data": "hwQFAAUAAADAzAAA3s0MAN7dDADu3QwA4O4AAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Ball"
+    },
+    "image2": {
+        "data": "hwQgAAgAAAAREREREREREREREREREREREREREREREREREREREREREREREREREREREREREREREREREREREREREREREREREREREREREREREREREREREREREREREREREREREREREREREREREREREREREREREREREREREREREREREREREREREREREQ==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "paddle"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
